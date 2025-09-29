@@ -12,6 +12,9 @@ This project presents a comprehensive data analysis and visualization of the glo
 6. What correlations exist between confirmed cases, deaths, and recoveries, and what do these relationships indicate about the effectiveness of pandemic response efforts?
 7. How did monthly trends in new COVID-19 cases help identify long-term patterns and assess the impact of variants and seasonal factors?
 
+## Dataset Link  
+(https://www.kaggle.com/datasets/imdevskp/corona-virus-report/data)
+
 ## Tools
 Python and the following libraries used:
 
@@ -19,4 +22,3 @@ Python and the following libraries used:
 2. Seaborn: for data visualizations
 3. Matplotlib: for data visualizations
 4. Plotly: for plotting graphs
-
